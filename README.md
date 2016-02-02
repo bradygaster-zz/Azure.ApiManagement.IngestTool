@@ -17,4 +17,4 @@ Once an API is selected, users can select from the list of API Management instan
 ![Select Apim Instance](content/select-apim-instance.png)
 
 ## Disclaimer
-This tool is still in a beta state, and should be considerd a fully open-source project. Contributions are welcome, as well as are issues or feature ideas. 
+This tooling is in beta. 
