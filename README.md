@@ -17,4 +17,4 @@ Once an API is selected, users can select from the list of API Management instan
 ![Select Apim Instance](content/select-apim-instance.png)
 
 ## Disclaimer
-This tooling is in beta. 
+This Visual Studio extension is in beta. 
